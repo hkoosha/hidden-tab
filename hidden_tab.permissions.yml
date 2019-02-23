@@ -1,0 +1,73 @@
+administer hidden tab page:
+  title: 'Administer hidden tab page'
+  restrict access: true
+view all hidden tab pages:
+  title: 'Access all hidden tabs'
+  restrict access: true
+view all hidden tab pages via uri:
+  title: 'Access all hidden tabs via uri without any checks'
+  restrict access: true
+view hidden tab page:
+  title: 'View hidden tab page'
+  restrict access: true
+delete hidden tab page:
+  title: 'Delete hidden tab page'
+  restrict access: true
+update hidden tab page:
+  title: 'Update hidden tab page'
+  restrict access: true
+
+administer hidden tab credit:
+  title: Administer hidden tab credit settings
+  restrict access: true
+access hidden tab credit overview:
+  title: 'Access hidden tab credit overview page'
+  restrict access: true
+delete hidden tab credit:
+  title: Delete hidden tab credit
+  restrict access: true
+create hidden tab credit:
+  title: Create hidden tab credit
+  restrict access: true
+view hidden tab credit:
+  title: View hidden tab credit
+  restrict access: true
+edit hidden tab credit:
+  title: Edit hidden tab credit
+  restrict access: true
+
+administer hidden tab mailer types:
+  title: 'Administer hidden tab mailer types'
+  description: 'Maintain the types of hidden tab mailer entity.'
+  restrict access: true
+administer hidden tab mailer:
+  title: Administer hidden tab mailer settings
+  restrict access: true
+access hidden tab mailer overview:
+  title: 'Access hidden tab mailer overview page'
+  restrict access: true
+delete hidden tab mailer:
+  title: Delete hidden tab mailer
+  restrict access: true
+create hidden tab mailer:
+  title: Create hidden tab mailer
+  restrict access: true
+view hidden tab mailer:
+  title: View hidden tab mailer
+  restrict access: true
+edit hidden tab mailer:
+  title: Edit hidden tab mailer
+  restrict access: true
+
+
+view hidden tab page on page admin stuff:
+  title: 'View hidden tab page on page admin stuff'
+  restrict access: true
+bypass credit charging:
+  title: 'Bypass credit charging'
+  description: Never charge the user for credits even in the situations she should be.
+  restrict access: true
+
+view secret uri:
+  title: 'View secret uri'
+  description: User must poses this permission, before any other check is done, to access hidden pages.

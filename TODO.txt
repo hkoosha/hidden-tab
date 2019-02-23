@@ -1,0 +1,24 @@
+cron loads all nodes. fix it.
+cron cleanup up of ip cfg
+
+delete state variable on config delete
+
+send mail in language of user
+
+user variable in mail template
+
+config description
+
+try - catch unnecessary redirects
+
+doc twig vars
+
+attempt counter
+
+warn about placement permission.
+
+re-arrange admin form field
+
+code duplicates
+
+low credit tempalte
